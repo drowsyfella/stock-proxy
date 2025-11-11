@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@gadicc/yahoo-finance2": "^2.11.1"
+    "yahoo-finance2": "^2.11.1"
   }
 }
