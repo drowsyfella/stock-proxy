@@ -1,7 +1,6 @@
 {
   "name": "stock-proxy",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "dependencies": {
     "@gadicc/yahoo-finance2": "^2.11.1"
