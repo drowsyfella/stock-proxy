@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "yahoo-finance2": "^2.11.1"
-  }
+    "@gadicc/yahoo-finance2": "^2.11.1"
+  },
+  "registry": "https://registry.npmjs.org/"
 }
