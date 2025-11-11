@@ -1,4 +1,4 @@
-import yahooFinance from "yahoo-finance2";
+import yahooFinance from "@gadicc/yahoo-finance2";
 
 export default async function handler(req, res) {
   try {
